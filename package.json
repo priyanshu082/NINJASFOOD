@@ -1,5 +1,25 @@
 {
+  "name": "ninjasfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu082/NINJASFOOD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshu082/NINJASFOOD/issues"
+  },
+  "homepage": "https://github.com/priyanshu082/NINJASFOOD#readme",
   "devDependencies": {
-    "tailwindcss": "^3.2.7"
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.4"
   }
 }
